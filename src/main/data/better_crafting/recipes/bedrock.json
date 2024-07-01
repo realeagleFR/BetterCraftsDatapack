@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "2": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "3": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "4": {
+      "item": "minecraft:stone"
+    },
+    "5": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "6": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "7": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "8": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

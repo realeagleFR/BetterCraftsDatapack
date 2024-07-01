@@ -1,0 +1,87 @@
+{
+  "mod_elements": [
+    {
+      "name": "Totem",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem"
+    },
+    {
+      "name": "Enchantedgoldenapple",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchantedgoldenapple"
+    },
+    {
+      "name": "Grass",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grass"
+    },
+    {
+      "name": "Reinforceddeepslate",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforceddeepslate"
+    },
+    {
+      "name": "Theimpossible",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theimpossible"
+    },
+    {
+      "name": "Bedrock",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock"
+    },
+    {
+      "name": "MOBSPAWNER",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mobspawner"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "better_crafting",
+    "modName": "Better Crafting",
+    "version": "1.0.0",
+    "author": "Admin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.19.x",
+    "modElementsPackage": "net.mcreator.bettercrafting",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
